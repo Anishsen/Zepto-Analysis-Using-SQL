@@ -1,0 +1,55 @@
+ Beginner Level (5 Questions)
+
+
+Display all columns and records from the table.
+
+
+Show all unique product categories present in the dataset.
+
+
+Find the total number of products available in the dataset.
+
+
+Retrieve all products that are currently out of stock.
+
+
+List all products having a discount percentage greater than 10.
+
+
+
+🟡 Intermediate Level (5 Questions)
+
+
+Find the average MRP of products in each category.
+
+
+Show the top 5 most expensive products based on MRP.
+
+
+Calculate the total available quantity of products per category.
+
+
+Find the average discount percentage for each category.
+
+
+Identify products where the discounted selling price is less than 80% of the MRP.
+
+
+
+🔴 Advanced Level (5 Questions)
+
+
+Find the category with the highest total sales value (discountedSellingPrice × availableQuantity).
+
+
+Determine which category has the highest average discount percentage.
+
+
+Find the average price per gram for each product and sort them by the lowest first.
+
+
+Calculate the category-wise stock availability ratio (products in stock ÷ total products).
+
+
+List the top 3 categories contributing the most to total discounted sales.
+
