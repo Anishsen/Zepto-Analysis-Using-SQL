@@ -16,8 +16,7 @@ Retrieve all products that are currently out of stock.
 List all products having a discount percentage greater than 10.
 
 
-
-🟡 Intermediate Level (5 Questions)
+ Intermediate Level (5 Questions)
 
 
 Find the average MRP of products in each category.
@@ -35,8 +34,7 @@ Find the average discount percentage for each category.
 Identify products where the discounted selling price is less than 80% of the MRP.
 
 
-
-🔴 Advanced Level (5 Questions)
+ Advanced Level (5 Questions)
 
 
 Find the category with the highest total sales value (discountedSellingPrice × availableQuantity).
@@ -52,4 +50,5 @@ Calculate the category-wise stock availability ratio (products in stock ÷ total
 
 
 List the top 3 categories contributing the most to total discounted sales.
+
 
